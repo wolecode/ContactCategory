@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="title"><font color = "@color/back">Contact</font></string>
+</resources>
